@@ -75,17 +75,9 @@ The API will be available at `http://127.0.0.1:8000`, with interactive docs at `
 ├── requirements.txt
 └── .env               # Local environment variables (not committed)
 
-## Example Usage
-
-**Create a note**
-
-curl -X POST http://127.0.0.1:8000/notes/ \
-  -H "Content-Type: application/json" \
-  -d '{"title": "Meeting Notes", "content": "Discussed Q3 roadmap and budget."}'
-
-**Summarize a note**
-
-curl -X POST http://127.0.0.1:8000/notes/1/summarize
+## Deployed by Railway
+here is the link below --
+              ai-notes-api-production.up.railway.app
 
 ## Known Limitations
 
