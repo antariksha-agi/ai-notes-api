@@ -77,7 +77,10 @@ The API will be available at `http://127.0.0.1:8000`, with interactive docs at `
 
 ## Deployed by Railway
 here is the link below --
-              ai-notes-api-production.up.railway.app
+              ai-notes-api-production.up.railway.app/docs
+use it
+              https://ai-notes-api-production.up.railway.app/docs#/default/summarize_note_notes__id__summarize_post
+              
 
 ## Known Limitations
 
